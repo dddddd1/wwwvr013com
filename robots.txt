@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /zb_users/theme/themeolBkTwo/include/random/
+
+Sitemap: https://www.vr013.com/sitemap.xml
