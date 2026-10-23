@@ -1,7 +1,7 @@
 {
   "headers": [
     {
-      "source": "/zb_users/(.*\\.(jpg|jpeg|png|gif|webp|svg|ico))",
+      "source": "/zb_users/:path*",
       "headers": [
         {
           "key": "Cache-Control",
